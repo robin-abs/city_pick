@@ -1,0 +1,159 @@
+Station;Temperature mini;Temperature maxi;Temperature moy.;Precipitations;Ensoleillement;
+01 - Ambérieu;13.0;31.6;22.0;0.0;9h18
+02 - Saint-Quentin Roupy;11.2;27.1;19.0;0.0;-
+03 - Vichy Charmeil;12.6;32.0;22.0;0.0;9h54
+04 - St-Auban-sur-Durance Château-Arnoux;17.6;33.6;25.5;0.0;11h12
+05 - Embrun;12.5;33.5;23.0;0.0;-
+06 - Cannes Mandelieu;16.5;27.3;21.5;0.0;-
+06 - Nice Côte D'Azur;19.2;25.5;22.0;0.0;11h30
+07 - Aubenas  Lanas;17.3;36.4;26.5;0.0;-
+08 - Charleville Mézières;7.4;27.0;17.0;0.0;12h42
+09 - Saint-Girons Antichan;19.6;27.8;23.5;0.0;7h48
+10 - Troyes Barberey;10.2;27.9;19.0;0.0;8h36
+11 - Carcassonne Salvaza;16.4;32.4;24.0;0.0;12h54
+11 - Leucate-Plage;19.9;35.5;27.5;0.0;-
+12 - Millau;17.4;29.3;23.0;0.0;11h42
+12 - Rodez Marcillac;14.7;27.9;21.0;0.0;8h48
+13 - Istres Le Tube (base aérienne);18.9;28.6;23.5;0.0*;-
+13 - Marseille Marignane (Provence);18.4;29.8;24.0;0.0;13h00
+13 - Salon-de-Provence;15.0;29.9;22.0;0.0;-
+14 - Caen Carpiquet;13.2;29.2;21.0;0.0;7h36
+14 - Deauville Saint-Gatien;14.5;28.2;21.0;0.0;-
+15 - Aurillac;14.5;26.4;20.0;0.4;4h00
+16 - Cognac Châteaubernard;18.4;32.2;25.0;0.0;11h06
+17 - Chassiron (pointe);20.4;23.4;21.5;0.0;-
+17 - La Rochelle aérodrome;19.9;25.2;22.5;0.2;10h54
+18 - Avord;14.8;31.4;23.0;0.0;-
+18 - Bourges;15.8;31.1;23.0;0.0;8h48
+19 - Brive la Gaillarde la Roche;16.5;28.6;22.5;0.0;4h18
+19 - Brive la Gaillarde Souillac vallée Dordogne;16.7;28.6;22.5;0.0;-
+20 - Ajaccio Campo Dell Oro;16.5;27.9;22.0;0.0;12h42
+20 - Alistro Bravonne;20.8;28.4;24.5;0.0;-
+20 - Bastia Poretta;18.0;28.1;23.0;0.0;12h36
+20 - Calvi Ste Catherine;16.5;27.7;22.0;0.0;-
+20 - Cap Pertusato;21.1;26.1;23.5;0.2;-
+20 - Figari Sud Corsica;14.1;30.5;22.0;0.2;-
+20 - L'Île-Rousse;21.0;25.8;23.0;0.0;-
+20 - Solenzara (base aérienne);19.5;27.6;23.5;0.0;0h00
+21 - Dijon Longvic;13.5;29.2;21.0;0.0;9h00
+22 - Lannion Servel;16.3;25.6;20.5;0.0;-
+22 - Ploumanac'h Perros Guirec;17.1;24.9;21.0;0.0;-
+22 - Saint-Brieuc Armor;16.2;27.2;21.5;0.0;10h06
+23 - Guéret St Laurent;12.8;29.9;21.0;0.4;8h54
+24 - Bergerac Roumanier;16.0;30.9;23.0;0.0;7h18
+25 - Besançon Thise;13.2;27.6;20.0;0.2;8h48
+26 - Montélimar Ancône;20.0;34.5;27.0;0.0;8h42
+27 - Evreux Fauville;14.3;28.1;21.0;0.0;-
+28 - Chartres Champol;12.3;28.7;20.5;0.0;8h00
+28 - Chateaudun;12.9;30.0;21.0;0.0;8h36
+29 - Brest Guipavas;15.8;23.0;19.0;0.1;5h12
+29 - Brignogan;-;-;-;-;-
+29 - Landivisiau (base navale);-;-;-;0.0;-
+29 - Lanveoc Poulmic;16.4;23.1;19.5;0.2;-
+29 - Ouessant;14.7;22.5;18.5;1.0;-
+29 - Penmarch (pointe);-;-;-;-;-
+29 - Ploudalmézeau;15.0;23.4;19.0;1.6;-
+29 - Pointe du Raz;16.7;20.2;18.0;0.2*;-
+29 - Quimper Pluguffan;15.9;23.2;19.5;0.6*;5h48
+30 - Mont Aigoual;17.7;25.9;21.5;0.4;-
+30 - Nimes Courbessac;19.6;33.3;26.0;0.0;11h30
+30 - Nimes Garons;19.6;31.1;25.0;0.0;-
+31 - Muret Lherm;15.4;-;-;0.0*;-
+31 - Toulouse  Blagnac;20.9;30.5;25.5;0.0;12h42
+32 - Auch Lamothe;18.2;28.4;23.0;0.0;9h00
+33 - Bordeaux Mérignac;20.9;28.0;24.0;0.0;9h42
+33 - Cap Ferret;21.5;27.5;24.5;0.0;-
+33 - Cazaux Pond (base aerienne);21.1;24.9;23.0;0.0;-
+34 - Béziers Vias;18.0;36.0;27.0;0.0;-
+34 - Montpellier Frejorgues Mediterranee;18.0;28.4;23.0;0.0;13h00
+34 - Sète;21.8;28.7;25.0;0.0;-
+35 - Dinard Pleurtuit;17.3;28.1;22.5;0.0;11h12
+35 - Rennes Saint-Jacques;17.1;30.3;23.5;0.0;11h12
+36 - Châteauroux Deols;15.1;31.8;23.0;0.2;9h42
+37 - Tours St Symphorien;16.8;31.7;24.0;0.0;10h24
+38 - Grenoble Le Versoud;12.9;31.6;22.0;0.2;-
+38 - Grenoble St Geoirs;11.4;31.6;21.5;0.0;11h06
+39 - Dole Tavaux;14.0;27.9;20.5;0.0;7h48
+40 - Biscarosse Parentis;21.4;25.0;23.0;0.0;8h12
+40 - Dax Seyresse;21.3;26.4;23.5;0.2*;5h54
+40 - Mont-De-Marsan (base aérienne);20.9;28.4;24.5;0.0;8h18
+41 - Blois Le Breuil;14.0;31.9;22.5;0.0;9h06
+41 - Romorantin Pruniers-en-Sologne;12.6;31.2;21.5;0.0;-
+42 - Saint Etienne Boutheon;13.3;33.1;23.0;0.0;10h06
+43 - Le Puy Loudes;10.3;32.0;21.0;0.0;10h36
+44 - Nantes Château-Bougon Atlantique;19.2;29.6;24.0;0.2;12h12
+44 - Saint-Nazaire Montoir;19.0;27.2;23.0;0.0;-
+45 - Orleans Bricy;12.1;30.0;21.0;0.0;8h18
+46 - Gourdon;17.3;28.9;23.0;0.0;5h36
+47 - Agen La Garenne;19.8;30.7;25.0;0.0;9h36
+48 - Mende Brenoux;14.0;32.6;23.0;0.0;10h42
+49 - Angers Beaucouzé;17.2;32.1;24.5;0.0;10h18
+49 - Angers Chaumont-d'Anjou Marcé;16.7;31.2;23.5;0.0;-
+50 - Cherbourg Maupertus;14.7;26.8;20.5;0.1;6h24
+50 - La Hague (cap);15.4;25.8;20.5;0.2;-
+51 - Châlons en Champagne Vatry;11.9;26.7;19.0;0.0;-
+51 - Reims / Prunay;9.7;28.4;19.0;0.0;10h36
+52 - Langres;13.6;26.6;20.0;0.0;10h12
+52 - Saint-Dizier Robinson;-;-;-;0.2;10h06
+53 - Laval Entrammes;16.9;30.9;23.5;0.0;10h48
+54 - Nancy Essey;11.2;27.3;19.0;0.0;11h54
+54 - Nancy Ochey;12.0;26.6;19.0;0.0;-
+56 - Belle Ile Le Talut;18.8;22.1;20.0;1.0;-
+56 - Ile de Groix - Beg Melen;18.0;21.7;19.5;0.4;-
+56 - Lorient Lann Bihoue;17.9;22.4;20.0;0.6;9h00
+57 - Metz-Nancy-Lorraine;12.2;27.5;19.5;0.0;12h24
+58 - Nevers Fourchambault;11.7;30.5;21.0;0.0;9h00
+59 - Dunkerque;14.0;27.9;20.5;0.0;-
+59 - Lille Lesquin;11.6;27.0;19.0;0.0;-
+60 - Beauvais Tillé;10.9;27.1;19.0;0.0;9h18
+61 - Alençon Valframbert;14.4;29.3;21.5;0.0;9h54
+62 - Boulogne sur mer;14.5;24.4;19.0;0.0;-
+62 - Le Touquet / Côte d'Opale;12.4;26.1;19.0;0.0;9h48
+63 - Clermont Ferrand Aulnat;14.9;33.4;24.0;0.2;7h30
+64 - Biarritz Anglet;21.6;24.7;23.0;0.2;-
+64 - Pau Pont-Long-Uzein;19.6;25.8;22.5;0.0;9h30
+64 - Socoa;21.4;26.5;23.5;0.2;-
+65 - Tarbes Ossun;19.4;26.1;22.5;0.0;8h54
+66 - Cap Béar;22.7;29.2;25.5;0.0;-
+66 - Perpignan Rivesalte;20.6;35.8;28.0;0.0;13h06
+67 - Strasbourg Entzheim;11.7;28.5;20.0;0.0;13h12
+68 - Bâle Mulhouse;11.1;29.1;20.0;0.0;-
+69 - Lyon Bron;15.7;32.3;24.0;0.0;9h48
+69 - Lyon St Exupéry;16.5;31.6;24.0;0.0;-
+70 - Luxeuil St Sauveur;9.9;28.4;19.0;0.0*;-
+71 - Macon Charnay;16.0;29.8;22.5;0.0;8h24
+71 - Saint Yan;14.1;31.0;22.5;0.0;-
+72 - Le Mans Arnage;17.2;31.7;24.0;0.0;10h24
+73 - Bourg-Saint-Maurice;12.3;31.0;21.5;0.0;-
+73 - Chambéry Aix les Bains;12.2;30.3;21.0;0.0;8h18
+74 - Annecy Meythet;12.4;30.0;21.0;0.0;-
+75 - Paris Montsouris;16.0;29.0;22.5;0.0;9h30
+76 - Dieppe;14.0;26.4;20.0;0.0;-
+76 - Le Havre Cap de la Hève;16.3;27.2;21.5;0.0;-
+76 - Le Havre-Octeville;14.4;26.5;20.0;0.0;7h00
+76 - Rouen Boos;13.2;27.0;20.0;0.0;8h24
+77 - Melun Villaroche;13.0;26.9;19.5;0.0;7h24
+78 - Toussus Le Noble;12.4;27.2;19.5;0.4;-
+78 - Trappes;13.2;27.1;20.0;0.0;8h54
+79 - Niort Souche;19.1;31.1;25.0;0.2;10h00
+80 - Abbeville;12.9;27.0;19.5;0.0;-
+80 - Albert Bray;12.3;27.3;19.5;0.0;-
+81 - Albi Le Sequestre;17.3;31.8;24.5;0.0;11h00
+82 - Montauban  Lamothe-Capdeville;18.3;-;-;0.0*;-
+83 - Cap Cepet;-;-;-;-;-
+83 - Hyeres Le Palivestre;15.4;26.9;21.0;0.0;-
+83 - Le Luc Le Cannet;13.8;32.2;23.0;0.0;13h24
+84 - Avignon;16.7;33.1;24.5;0.0;-
+84 - Carpentras;16.4;34.8;25.5;0.0;-
+84 - Orange Caritat;20.8;36.4;28.5;0.0;-
+85 - L'Ile d'Yeu - Saint Sauveur;19.3;24.4;21.5;0.6;-
+85 - La Roche sur Yon Les Ajoncs;19.6;29.1;24.0;0.2;10h48
+86 - Poitiers Biard;17.5;32.8;25.0;0.2;9h24
+87 - Limoges Bellegarde;18.1;27.4;22.5;0.0;7h42
+89 - Auxerre / Perrigny;11.1;29.4;20.0;0.0;10h30
+90 - Dorans / Belfort;12.7;26.9;19.5;0.0;-
+91 - Paris Orly;13.9;28.1;21.0;0.0;9h00
+91 - Villacoublay Velizy;14.5;26.8;20.5;0.0;-
+93 - Paris Le Bourget;14.1;27.9;21.0;0.0;-
+95 - Paris Roissy CDG;14.3;27.4;20.5;0.0;9h00
+95 - Pontoise Cormeilles Boissy-l'Aillerie;12.3;28.1;20.0;0.0;-
