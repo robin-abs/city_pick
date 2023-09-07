@@ -1,0 +1,159 @@
+Station;Temperature mini;Temperature maxi;Temperature moy.;Precipitations;Ensoleillement;
+01 - Ambérieu;3.3;8.4;5.5;0.0;1h00
+02 - Saint-Quentin Roupy;3.2;8.7;5.5;0.0;3h18
+03 - Vichy Charmeil;3.8;7.9;5.5;0.2;0h18
+04 - St-Auban-sur-Durance Château-Arnoux;2.8;12.8;7.5;0.0;8h06
+05 - Embrun;-6.7;9.6;1.0;0.0;-
+06 - Cannes Mandelieu;3.1;15.1;9.0;0.0*;-
+06 - Nice Côte D'Azur;6.3;14.1;10.0;0.0;6h42
+07 - Aubenas  Lanas;2.5;11.8;7.0;0.0;-
+08 - Charleville Mézières;4.5;8.7;6.5;0.1;2h30
+09 - Saint-Girons Antichan;3.0;10.1;6.5;0.0;6h48
+10 - Troyes Barberey;5.1;8.2;6.5;0.0;0h06
+11 - Carcassonne Salvaza;6.4;11.4;8.5;0.0;4h36
+11 - Leucate-Plage;8.7;12.9;10.5;0.0;-
+12 - Millau;1.5;6.9;4.0;0.0;5h12
+12 - Rodez Marcillac;0.5;7.7;4.0;0.0;4h54
+13 - Istres Le Tube (base aérienne);6.7;13.1;9.5;0.0;-
+13 - Marseille Marignane (Provence);1.2;12.8;7.0;0.0;8h00
+13 - Salon-de-Provence;6.8;12.7;9.5;0.0;-
+14 - Caen Carpiquet;5.2;10.9;8.0;0.0;2h36
+14 - Deauville Saint-Gatien;5.6;10.0;7.5;0.0;-
+15 - Aurillac;2.0;7.4;4.5;0.0;6h42
+16 - Cognac Châteaubernard;2.5;12.8;7.5;0.0;3h30
+17 - Chassiron (pointe);6.6;9.5;8.0;0.0;-
+17 - La Rochelle aérodrome;4.2;10.3;7.0;0.0;4h48
+18 - Avord;3.7;7.7;5.5;0.0;-
+18 - Bourges;4.1;8.0;6.0;0.0;0h00
+19 - Brive la Gaillarde la Roche;5.1;11.0;8.0;0.0;1h24
+19 - Brive la Gaillarde Souillac vallée Dordogne;4.3;9.6;6.5;0.0;-
+20 - Ajaccio Campo Dell Oro;2.7;15.0;8.5;0.0;2h00
+20 - Alistro Bravonne;5.6;15.7;10.5;0.0;-
+20 - Bastia Poretta;-;-;-;0.0*;-
+20 - Calvi Ste Catherine;3.3;15.1;9.0;0.0;-
+20 - Cap Pertusato;7.3;12.1;9.5;0.0;-
+20 - Figari Sud Corsica;-1.4;13.9;6.0;0.0;-
+20 - L'Île-Rousse;8.1;12.7;10.0;0.0;-
+20 - Solenzara (base aérienne);3.3;15.2;9.0;0.0;0h00
+21 - Dijon Longvic;3.4;8.1;5.5;0.0;0h12
+22 - Lannion Servel;7.8;11.2;9.5;0.0;-
+22 - Ploumanac'h Perros Guirec;9.1;11.1;10.0;0.0;-
+22 - Saint-Brieuc Armor;6.8;10.0;8.0;0.0;0h36
+23 - Guéret St Laurent;2.7;6.9;4.5;0.0;0h00
+24 - Bergerac Roumanier;4.4;11.6;8.0;0.0;1h54
+25 - Besançon Thise;2.6;6.2;4.0;0.8;0h00
+26 - Montélimar Ancône;5.5;10.6;8.0;0.0;6h30
+27 - Evreux Fauville;5.2;10.0;7.5;0.0;-
+28 - Chartres Champol;3.9;9.3;6.5;0.0;1h12
+28 - Chateaudun;3.8;9.0;6.0;0.0;0h54
+29 - Brest Guipavas;6.1;10.6;8.0;0.1;0h06
+29 - Brignogan;-;-;-;-;-
+29 - Landivisiau (base navale);-;-;-;0.0;-
+29 - Lanveoc Poulmic;5.1;10.8;7.5;0.1;-
+29 - Ouessant;8.4;11.8;10.0;0.0;-
+29 - Penmarch (pointe);-;-;-;-;-
+29 - Ploudalmézeau;5.8;11.5;8.5;0.0;-
+29 - Pointe du Raz;8.7;11.7;10.0;0.0*;-
+29 - Quimper Pluguffan;5.6;10.8;8.0;0.0;0h24
+30 - Mont Aigoual;-5.1;0.3;-2.0;0.0;-
+30 - Nimes Courbessac;3.6;14.2;8.5;0.0;7h36
+30 - Nimes Garons;3.5;13.8;8.5;0.0;-
+31 - Muret Lherm;3.1;9.4;6.0;0.0;-
+31 - Toulouse  Blagnac;6.2;9.3;7.5;0.0;1h36
+32 - Auch Lamothe;2.8;10.4;6.5;0.0;3h24
+33 - Bordeaux Mérignac;2.8;12.7;7.5;0.0;2h12
+33 - Cap Ferret;4.6;12.8;8.5;0.0;-
+33 - Cazaux Pond (base aerienne);4.1;13.4;8.5;0.0;-
+34 - Béziers Vias;1.0;13.9;7.0;0.0;-
+34 - Montpellier Frejorgues Mediterranee;-1.5;16.3;7.0;0.0;8h24
+34 - Sète;7.6;12.4;10.0;0.0;-
+35 - Dinard Pleurtuit;6.5;10.2;8.0;0.0;0h00
+35 - Rennes Saint-Jacques;7.0;10.5;8.5;0.0;0h00
+36 - Châteauroux Deols;3.9;8.1;6.0;0.0;0h00
+37 - Tours St Symphorien;5.5;9.9;7.5;0.0;0h18
+38 - Grenoble Le Versoud;-4.0;9.9;2.5;0.0;-
+38 - Grenoble St Geoirs;-1.0;6.9;2.5;0.2;1h00
+39 - Dole Tavaux;1.3;8.6;4.5;0.6;0h18
+40 - Biscarosse Parentis;6.9;13.7;10.0;0.0;3h48
+40 - Dax Seyresse;5.7;11.1;8.0;0.0;0h00
+40 - Mont-De-Marsan (base aérienne);2.2;10.5;6.0;0.0;0h18
+41 - Blois Le Breuil;3.4;9.0;6.0;0.0;0h00
+41 - Romorantin Pruniers-en-Sologne;3.0;9.0;6.0;0.0;-
+42 - Saint Etienne Boutheon;-0.5;6.9;3.0;0.0;0h24
+43 - Le Puy Loudes;0.5;4.5;2.5;0.0;0h54
+44 - Nantes Château-Bougon Atlantique;6.4;11.4;8.5;0.0;1h18
+44 - Saint-Nazaire Montoir;7.0;11.3;9.0;0.0;-
+45 - Orleans Bricy;5.1;9.7;7.0;0.0;2h00
+46 - Gourdon;5.1;9.9;7.5;0.0;1h36
+47 - Agen La Garenne;3.9;11.3;7.5;0.0;0h48
+48 - Mende Brenoux;-1.4;4.5;1.5;0.0;6h18
+49 - Angers Beaucouzé;6.5;10.7;8.5;0.0;0h24
+49 - Angers Chaumont-d'Anjou Marcé;6.0;11.2;8.5;0.0;-
+50 - Cherbourg Maupertus;5.6;9.9;7.5;0.0;4h24
+50 - La Hague (cap);8.7;11.1;9.5;0.0;-
+51 - Châlons en Champagne Vatry;3.7;8.8;6.0;0.0;-
+51 - Reims / Prunay;3.7;9.5;6.5;0.0;3h48
+52 - Langres;2.1;5.1;3.5;0.2;0h00
+52 - Saint-Dizier Robinson;-;-;-;0.0;0h12
+53 - Laval Entrammes;7.0;9.4;8.0;0.0;0h00
+54 - Nancy Essey;4.7;7.0;5.5;0.4;0h12
+54 - Nancy Ochey;3.5;5.9;4.5;0.1;-
+56 - Belle Ile Le Talut;7.8;-;-;0.0*;-
+56 - Ile de Groix - Beg Melen;8.1;11.6;9.5;0.0*;-
+56 - Lorient Lann Bihoue;3.7;10.5;7.0;0.0;1h00
+57 - Metz-Nancy-Lorraine;4.2;6.7;5.0;0.0;0h12
+58 - Nevers Fourchambault;3.9;7.6;5.5;0.4;0h00
+59 - Dunkerque;7.1;9.4;8.0;0.0;-
+59 - Lille Lesquin;3.7;10.2;6.5;0.0;-
+60 - Beauvais Tillé;4.7;9.9;7.0;0.0;2h48
+61 - Alençon Valframbert;6.6;8.9;7.5;0.0;0h00
+62 - Boulogne sur mer;6.6;8.7;7.5;0.0;-
+62 - Le Touquet / Côte d'Opale;7.3;10.0;8.5;0.0;2h12
+63 - Clermont Ferrand Aulnat;2.3;8.8;5.5;0.0;0h12
+64 - Biarritz Anglet;6.1;10.7;8.0;0.2;0h00
+64 - Pau Pont-Long-Uzein;3.9;10.7;7.0;0.0;2h00
+64 - Socoa;5.7;11.2;8.0;0.0;-
+65 - Tarbes Ossun;2.4;9.4;5.5;0.0;3h24
+66 - Cap Béar;9.2;13.6;11.0;0.0;-
+66 - Perpignan Rivesalte;8.9;14.6;11.5;0.0;7h42
+67 - Strasbourg Entzheim;4.4;7.9;6.0;0.2;0h00
+68 - Bâle Mulhouse;2.7;6.8;4.5;0.4;-
+69 - Lyon Bron;1.2;10.0;5.5;0.0;1h54
+69 - Lyon St Exupéry;3.3;8.5;5.5;0.0;-
+70 - Luxeuil St Sauveur;2.4;6.0;4.0;0.0*;-
+71 - Macon Charnay;3.9;9.0;6.0;0.0;0h30
+71 - Saint Yan;2.5;7.7;5.0;0.0;-
+72 - Le Mans Arnage;6.7;9.9;8.0;0.0;0h00
+73 - Bourg-Saint-Maurice;-5.8;8.4;1.0;0.0;6h36
+73 - Chambéry Aix les Bains;-2.9;10.4;3.5;0.0;6h24
+74 - Annecy Meythet;-1.8;8.6;3.0;0.0;-
+75 - Paris Montsouris;6.8;10.2;8.5;0.0;2h18
+76 - Dieppe;7.8;9.8;8.5;0.0;-
+76 - Le Havre Cap de la Hève;6.9;10.0;8.0;0.0;-
+76 - Le Havre-Octeville;7.2;9.6;8.0;0.0;-
+76 - Rouen Boos;5.7;8.8;7.0;0.0;0h54
+77 - Melun Villaroche;4.0;10.3;7.0;0.0;2h42
+78 - Toussus Le Noble;4.5;9.6;7.0;0.0;-
+78 - Trappes;5.4;9.3;7.0;0.0;0h54
+79 - Niort Souche;2.8;10.0;6.0;0.0;1h06
+80 - Abbeville;5.8;9.5;7.5;0.0;-
+80 - Albert Bray;2.1;8.5;5.0;0.2;-
+81 - Albi Le Sequestre;4.9;9.9;7.0;0.4;0h30
+82 - Montauban  Lamothe-Capdeville;5.7;10.5;8.0;0.0;1h06
+83 - Cap Cepet;-;-;-;-;-
+83 - Hyeres Le Palivestre;0.4;16.7;8.5;0.0;-
+83 - Le Luc Le Cannet;-1.0;15.5;7.0;0.0;6h54
+84 - Avignon;-;-;-;0.0*;-
+84 - Carpentras;4.5;12.5;8.5;0.0;-
+84 - Orange Caritat;7.1;11.5;9.0;0.0;-
+85 - L'Ile d'Yeu - Saint Sauveur;7.4;10.7;9.0;0.0;-
+85 - La Roche sur Yon Les Ajoncs;4.5;9.8;7.0;0.0;2h30
+86 - Poitiers Biard;3.2;9.3;6.0;0.0;0h06
+87 - Limoges Bellegarde;3.3;6.7;5.0;0.0;0h06
+89 - Auxerre / Perrigny;4.7;7.9;6.0;0.0;0h00
+90 - Dorans / Belfort;1.9;5.1;3.5;1.6;-
+91 - Paris Orly;5.5;10.7;8.0;0.0;2h24
+91 - Villacoublay Velizy;4.7;9.7;7.0;0.0;-
+93 - Paris Le Bourget;5.7;9.9;7.5;0.0;-
+95 - Paris Roissy CDG;5.6;9.6;7.5;0.0;0h48
+95 - Pontoise Cormeilles Boissy-l'Aillerie;5.4;9.9;7.5;0.0;-
